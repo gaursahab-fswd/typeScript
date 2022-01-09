@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
+import Header from './Frontend/header';
 
-function App() {
-  return (
-    <div className="App">
-     
-    </div>
-  );
+class App extends React.Component{
+
+  constructor(
+    super();
+  )
+
 }
 
 export default App;
